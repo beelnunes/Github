@@ -1,0 +1,1 @@
+*commit*: são as versões que fazemos dos arquivos
