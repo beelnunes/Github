@@ -5,6 +5,8 @@
 
 *git add*:
 - manda os arquivos para a área de 'stanging' ou 'index'. Pense que é como o back stage de uma show. A pessoa fica ali esperando, já pronta para entrar no palco.
+    *git add .*: serve para adicionar todos os arquivos que foram modificados
+    *git add nome_do_arquivo*: aqui você só adiciona um arquivo específico que foi modificado
 
 *git status*: 
 - verificar quais arquivos foram modificados e estão esperando por uma descrição de modificação
